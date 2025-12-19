@@ -31,12 +31,6 @@ Currently, I am focused on mastering **Business Intelligence** (Power BI) and ap
 * **Objective:** Designed a relational database to optimize inventory tracking and customer management.
 * **Tech:** C#, MySQL, WinForms.
 * **Key Outcome:** Built a robust backend and user-friendly interface that improved data retrieval efficiency.
-
-### 🕹️ [Retro Arcade Command Center](LINK_TO_YOUR_REPO_HERE)
-*Python Logic Project*
-* **Objective:** A creative Python application managing game states and scores.
-* **Tech:** Python (Stacks, Linked Lists).
-
 ---
 
 ## 💼 Experience
@@ -56,6 +50,3 @@ Currently, I am focused on mastering **Business Intelligence** (Power BI) and ap
 
 ### 📫 Connect with Me
 * 📧 **Email:** saaddalc@gmail.com
-* 🔗 **LinkedIn:** [Add Your LinkedIn URL Here]
-
-![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical)
